@@ -1,12 +1,6 @@
 # CHEARS Internship — Data Analysis
 
-Data science work completed during the CHEARS internship program, covering exploratory data analysis, feature engineering, and machine learning modeling.
-
-## Overview
-- Exploratory Data Analysis (EDA) and data cleaning
-- Feature engineering and preprocessing pipelines
-- ML model training and evaluation
-- Two notebook versions capturing iterative improvements
+Data science work from the CHEARS internship program covering EDA, feature engineering, and ML modeling.
 
 ## Files
 | File | Description |
